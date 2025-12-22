@@ -1,0 +1,3 @@
+use else if, else. UPDATED!
+variable declaration should be at the top. UPDATED!
+function name should be in snake case. UPDATED!
